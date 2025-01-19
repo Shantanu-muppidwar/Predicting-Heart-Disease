@@ -62,4 +62,5 @@ The dataset comprises the following features:
 - **Confusion Matrix**: Illustrates true positives, true negatives, and misclassifications.
 - **Precision, Recall, and F1 Score**: Scores are 0.79, 0.76 and 0.78 respectively. Provides detailed insights into the model’s predictive performance.
 
-
+---
+This project serves as a practical example of using data science techniques to address real-world challenges in the medical industry. For more details, refer to the dataset and notebook provided.
